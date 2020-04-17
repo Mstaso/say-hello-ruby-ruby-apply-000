@@ -2,5 +2,9 @@
 
 def say_hello (name=Gabriela) 
   puts "Hello #{name}!"
-  puts "Hello Ruby Programmer!"
 end   
+
+def say_hello
+  puts "Hello Ruby Programmer!"
+end
+  
