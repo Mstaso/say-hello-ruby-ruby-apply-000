@@ -5,7 +5,7 @@ def say_hello
 end  
 
 def say_hello (name=Gabriela) 
-  puts "Hello #{name, Ruby Programmer}!"
+  puts "Hello #{name}!"
 end   
 
 
